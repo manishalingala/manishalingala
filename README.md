@@ -19,4 +19,4 @@
 
 ![Manisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishalingala&theme=dark&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manishalingala&hide_border=true)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manishalingala&hide_border=true)
