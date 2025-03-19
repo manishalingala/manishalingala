@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishalingala&show_icons=true&locale=en&layout=compact" alt="manishalingala" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manishalingala&hide_border=true)
+#![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manishalingala&hide_border=true)
