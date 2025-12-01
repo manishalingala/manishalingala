@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manisha Lingala</h1>
 <h3 align="center">A Masters student at Kyungpook National University, Korea</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://manishalingala.github.io/portfolio](https://manishalingala.github.io/portfolio)
 
